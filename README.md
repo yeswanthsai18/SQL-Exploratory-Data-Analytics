@@ -32,7 +32,7 @@ The Gold Layer is the final, presentation-ready tier, optimized for analytics an
 
 Before modeling, a thorough Exploratory Data Analysis (EDA) was conducted to understand the dataset's characteristics, uncover patterns, and identify potential data quality issues. The structured workflow below was followed.
 
-![image](https://github.com/user-attachments/assets/27419de0-9d7d-470f-aaa3-3ade5f4a52af)
+![image](https://github.com/user-attachments/assets/d11bb702-a305-4ace-bf9b-5b6a2ba73b9d)
 
 Our EDA process is broken down into these key stages:
 
