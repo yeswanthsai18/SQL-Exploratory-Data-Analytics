@@ -1,4 +1,4 @@
-# Exploratory Data Analytics🚀
+# Exploratory Data Analysis🚀
 
 ## ✨ Introduction
 
