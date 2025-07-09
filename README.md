@@ -95,7 +95,6 @@ The repository is organized to ensure clarity and ease of navigation:
 .
 ├── data/                   # Raw source data (CSV files)
 ├── docs/                   # Project documentation, requirements, and diagrams
-├── etl-pipelines/          # SQL scripts for ETL processes (Bronze to Silver, Silver to Gold)
 ├── analytics-queries/      # SQL scripts for final business intelligence and analysis
 └── README.md               # This file
 ```
