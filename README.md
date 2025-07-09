@@ -1,8 +1,8 @@
-# Data Warehouse and Analytics Project 🚀
+# Exploratory Data Analytics🚀
 
 ## ✨ Introduction
 
-Welcome to the **Data Warehouse and Exploratory Analytics Project** repository! This project serves as a comprehensive, end-to-end demonstration of building a modern data solution, from initial data ingestion to the delivery of actionable business intelligence. It is designed to showcase industry-standard practices in data engineering, data modeling, and data analysis, making it an ideal portfolio piece for aspiring data professionals.
+Welcome to the **Data Warehouse and Exploratory Data Analytics Project** repository! This project serves as a comprehensive, end-to-end demonstration of building a modern data solution, from initial data ingestion to the delivery of actionable business intelligence. It is designed to showcase industry-standard practices in data engineering, data modeling, and data analysis, making it an ideal portfolio piece for aspiring data professionals.
 
 The core of this project is to transform raw, disparate data from multiple sources into a clean, reliable, and highly-performant data warehouse, which then serves as a single source of truth for powerful analytics and reporting.
 
